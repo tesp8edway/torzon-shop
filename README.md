@@ -40,4 +40,6 @@ The **TorZon shop** is known on the darknet. The **TorZon Market** provides an a
 
 This is for educational purposes. We do not endorse illegal acts.
 
-Update:  18.09.2025 link is functioning
+
+
+Update:  01 October link is live and working
